@@ -16,6 +16,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<link rel="stylesheet" href="table.css">
 </head>
 <body>
 	<center>
@@ -27,7 +28,7 @@
 				</td>
 			</tr>
 		</table>
-		<table border=1 width=800 id="user-table">
+		 <table class="table_content" width=700>
 			<tr>
 				<th>번호</th>
 				<th></th>

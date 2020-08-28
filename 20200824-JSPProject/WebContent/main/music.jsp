@@ -10,6 +10,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<link rel="stylesheet" href="table.css">
+<%-- 
 <script type="text/javascript" src="http://code.jquery.com/jquery.js"></script>
 <script type="text/javascript">
 $(function(){
@@ -21,6 +23,7 @@ $(function(){
 	});
 });
 </script>
+--%>
 </head>
 <body>
 	<center>
@@ -32,7 +35,7 @@ $(function(){
 				</td>
 			</tr>
 		</table>
-		<table border=1 width=800 id="user-table">
+		<table class="table_content" width=700 >
 			<tr>
 				<th>순위</th>
 				<th></th>
